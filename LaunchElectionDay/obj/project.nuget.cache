@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HzCGuSMWcsHwa+G84lRfNZquyfIhjugUX4yVcd+m/MDhXOQs+/3w9g4yyPY/8Hjw/A8rl4AJpjXRG7PRZ8xNDg==",
+  "success": true,
+  "projectFilePath": "/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/LaunchElectionDay.csproj",
+  "expectedPackageFiles": [
+    "/Users/joe/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/joe/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.15/microsoft.netcore.app.host.osx-x64.6.0.15.nupkg.sha512",
+    "/Users/joe/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

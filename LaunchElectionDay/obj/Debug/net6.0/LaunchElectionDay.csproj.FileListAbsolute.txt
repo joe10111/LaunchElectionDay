@@ -1,0 +1,15 @@
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/bin/Debug/net6.0/LaunchElectionDay
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/bin/Debug/net6.0/LaunchElectionDay.deps.json
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/bin/Debug/net6.0/LaunchElectionDay.runtimeconfig.json
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/bin/Debug/net6.0/LaunchElectionDay.dll
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/bin/Debug/net6.0/LaunchElectionDay.pdb
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/obj/Debug/net6.0/LaunchElectionDay.csproj.AssemblyReference.cache
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/obj/Debug/net6.0/LaunchElectionDay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/obj/Debug/net6.0/LaunchElectionDay.AssemblyInfoInputs.cache
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/obj/Debug/net6.0/LaunchElectionDay.AssemblyInfo.cs
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/obj/Debug/net6.0/LaunchElectionDay.csproj.CoreCompileInputs.cache
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/obj/Debug/net6.0/LaunchElectionDay.dll
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/obj/Debug/net6.0/refint/LaunchElectionDay.dll
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/obj/Debug/net6.0/LaunchElectionDay.pdb
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/obj/Debug/net6.0/LaunchElectionDay.genruntimeconfig.cache
+/Users/joe/Downloads/LaunchElectionDay-main/LaunchElectionDay/obj/Debug/net6.0/ref/LaunchElectionDay.dll
